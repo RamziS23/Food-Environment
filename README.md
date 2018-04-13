@@ -1,0 +1,3 @@
+# Food-Environment
+Food environment factors--such as store/restaurant proximity, food prices, food and nutrition assistance programs, and community characteristics--interact to influence food choices and diet quality. Research is beginning to document the complexity of these interactions, but more is needed to identify causal relationships and effective policy interventions. The objectives of the Atlas are to assemble statistics on food environment indicators to stimulate research on the determinants of food choices and diet quality, and to provide a spatial overview of a community's ability to access healthy food and its success in doing so.
+Can be found here: https://catalog.data.gov/dataset/food-environment-atlas-f4a22
